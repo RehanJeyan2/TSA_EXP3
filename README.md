@@ -11,6 +11,7 @@ type to fit the data.
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
+```
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -39,7 +40,7 @@ plt.ylabel('Autocorrelation')
 plt.grid(True)
 plt.show()
 
-
+```
 ### OUTPUT:
 <img width="1281" height="677" alt="image" src="https://github.com/user-attachments/assets/beee9e63-cef7-4a5f-a89c-1e2ec439f2ac" />
 
